@@ -1,25 +1,8 @@
-{
-  "name": "Amethyst",
-  "identifier": "amethyst",
-  "apps": [
-    {
-      "name": "Amethyst Launcher",
-      "bundleIdentifier": "com.angelauramc.amethyst",
-      "developerName": "AngelAuraMC",
-      "localizedDescription": "Minecraft Java Edition launcher for iOS, successor to PojavLauncher.",
-      "iconURL": "https://raw.githubusercontent.com/AngelAuraMC/Amethyst-iOS/main/assets/icon.png",
-      "tintColor": "6A0DAD",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "date": "2025-09-07",
-          "downloadURL": "https://github.com/AngelAuraMC/Amethyst-iOS/actions/latest/download/org.angelauram
-c.amethyst-
-ios.ipa",
-          "size": 80000000,
-          "localizedDescription": "Latest release build of Amethyst for iOS."
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "LiveContainer + SideStore",
+    "bundleIdentifier": "com.kdt.livecontainer",
+    "version": "nightly",
+    "downloadURL": "https://github.com/LiveContainerMirror/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa"
+  }
+]
